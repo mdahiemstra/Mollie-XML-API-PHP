@@ -2,7 +2,7 @@
 	
 	/**
 	 * Usage:
-	 * 	$api = new SMS('retnas', 'power_up!');
+	 * 	$api = new SMS('username', 'password');
 	 *  $api->textMessage('Originator', array('number'), 'message');
 	 */
 	Class SMS {
