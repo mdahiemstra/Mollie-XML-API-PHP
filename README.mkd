@@ -8,8 +8,8 @@ Feel free to fork it.
 Usage
 -----
 
-$api = new SMS('username', 'password');
-$api->textMessage('Originator', array('number'), 'message');
+	$api = new SMS('username', 'password');
+	$api->textMessage('Originator', array('number'), 'message');
 
 
 Feature list (to come)
